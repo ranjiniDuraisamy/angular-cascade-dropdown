@@ -1,0 +1,137 @@
+[
+    {
+        "id": 25,
+        "name": "Bermuda",
+        "iso3": "BMU",
+        "iso2": "BM",
+        "numeric_code": "060",
+        "phone_code": "+1-441",
+        "capital": "Hamilton",
+        "currency": "BMD",
+        "currency_name": "Bermudian dollar",
+        "currency_symbol": "$",
+        "tld": ".bm",
+        "native": "Bermuda",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "nationality": "Bermudian, Bermudan",
+        "timezones": [
+            {
+                "zoneName": "Atlantic\/Bermuda",
+                "gmtOffset": -14400,
+                "gmtOffsetName": "UTC-04:00",
+                "abbreviation": "AST",
+                "tzName": "Atlantic Standard Time"
+            }
+        ],
+        "translations": {
+            "kr": "버뮤다",
+            "pt-BR": "Bermudas",
+            "pt": "Bermudas",
+            "nl": "Bermuda",
+            "hr": "Bermudi",
+            "fa": "برمودا",
+            "de": "Bermuda",
+            "es": "Bermudas",
+            "fr": "Bermudes",
+            "ja": "バミューダ",
+            "it": "Bermuda",
+            "cn": "百慕大",
+            "tr": "Bermuda"
+        },
+        "latitude": "32.33333333",
+        "longitude": "-64.75000000",
+        "emoji": "🇧🇲",
+        "emojiU": "U+1F1E7 U+1F1F2"
+    },
+    {
+        "id": 26,
+        "name": "Bhutan",
+        "iso3": "BTN",
+        "iso2": "BT",
+        "numeric_code": "064",
+        "phone_code": "975",
+        "capital": "Thimphu",
+        "currency": "BTN",
+        "currency_name": "Bhutanese ngultrum",
+        "currency_symbol": "Nu.",
+        "tld": ".bt",
+        "native": "ʼbrug-yul",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "nationality": "Bhutanese",
+        "timezones": [
+            {
+                "zoneName": "Asia\/Thimphu",
+                "gmtOffset": 21600,
+                "gmtOffsetName": "UTC+06:00",
+                "abbreviation": "BTT",
+                "tzName": "Bhutan Time"
+            }
+        ],
+        "translations": {
+            "kr": "부탄",
+            "pt-BR": "Butão",
+            "pt": "Butão",
+            "nl": "Bhutan",
+            "hr": "Butan",
+            "fa": "بوتان",
+            "de": "Bhutan",
+            "es": "Bután",
+            "fr": "Bhoutan",
+            "ja": "ブータン",
+            "it": "Bhutan",
+            "cn": "不丹",
+            "tr": "Butan"
+        },
+        "latitude": "27.50000000",
+        "longitude": "90.50000000",
+        "emoji": "🇧🇹",
+        "emojiU": "U+1F1E7 U+1F1F9"
+    },
+    {
+        "id": 24,
+        "name": "Benin",
+        "iso3": "BEN",
+        "iso2": "BJ",
+        "numeric_code": "204",
+        "phone_code": "229",
+        "capital": "Porto-Novo",
+        "currency": "XOF",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "CFA",
+        "tld": ".bj",
+        "native": "Bénin",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "nationality": "Beninese, Beninois",
+        "timezones": [
+            {
+                "zoneName": "Africa\/Porto-Novo",
+                "gmtOffset": 3600,
+                "gmtOffsetName": "UTC+01:00",
+                "abbreviation": "WAT",
+                "tzName": "West Africa Time"
+            }
+        ],
+        "translations": {
+            "kr": "베냉",
+            "pt-BR": "Benin",
+            "pt": "Benim",
+            "nl": "Benin",
+            "hr": "Benin",
+            "fa": "بنین",
+            "de": "Benin",
+            "es": "Benín",
+            "fr": "Bénin",
+            "ja": "ベナン",
+            "it": "Benin",
+            "cn": "贝宁",
+            "tr": "Benin"
+        },
+        "latitude": "9.50000000",
+        "longitude": "2.25000000",
+        "emoji": "🇧🇯",
+        "emojiU": "U+1F1E7 U+1F1EF"
+    }
+]
